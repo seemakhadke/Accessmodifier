@@ -7,6 +7,7 @@ public class Class1 {
 	protected static double d=20.5;
 	static char a='s';
 	
+	// change made for ssh
 	public static void test_pub()
 	{
 		System.out.println("tetst_pub method is executed");
