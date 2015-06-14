@@ -3,7 +3,8 @@ package package2;
 import package1.Class1;
 
 public class Class3 extends Class1 {
-
+    
+	//change for branch1
 	public static void main(String[] args) {
 		test_pub();  // can access public methods outside the package
 	//	test_pri(); can not access private methods outside the class
